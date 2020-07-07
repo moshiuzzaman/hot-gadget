@@ -1,0 +1,64 @@
+section{
+    margin-bottom: 100px;
+}
+ol.carousel-indicators li.carosol-icon{
+    background-color: rgb(143, 143, 143);
+    height: 9px;
+    width: 12px;
+    border-radius: 46%;
+}
+
+ol.carousel-indicators li.active{
+    width: 32px;
+    height: 9px;
+    background-image: linear-gradient(45deg, #fdc21f, #fcc87a);
+    border-radius: 44%;
+    transition: .1s;
+}
+
+
+
+
+
+
+button.buy-now {
+    background-color: black;
+    color: white;
+    padding: 11px 24px;
+    border: none;
+    border-radius: 10px;
+}
+img.logo {
+    width: 12%;
+    margin: 10px 0px;
+}
+.see-all-link{
+    cursor: pointer;
+    font-weight: bold;
+
+}
+.carosol{
+    margin-top: 100px;
+}
+.category-bottom {
+    width: 100%;
+    background-image: linear-gradient(45deg, #fba200, #ffec0e);
+    height: 10%;
+    border-radius: 100px;
+}
+
+.cat-singel-item {
+    box-shadow: 2px 4px 40px #e0dcdc;
+}
+.orange-bg {
+    background-color: #fceae8;
+}
+.subscribe{
+    height: 300px;
+}
+footer {
+    margin-bottom: -43px;
+}
+
+
+
